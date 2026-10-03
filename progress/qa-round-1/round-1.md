@@ -7,7 +7,7 @@ cursor:
 
 **Verdict: NOT READY.** Tested deployed `04ab183` at 390×844, 1440×900, and share at 1280×900. **Blockers: none. Majors: 3. Minors: none.**
 
-**Progress-media artifact commit:** pending initial publish.
+**Progress-media artifact commit:** `f1f6e30fe86d2f885b4de1408c04f9a3ae63c9c9`
 
 ## Major
 
