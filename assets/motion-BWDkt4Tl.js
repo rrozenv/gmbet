@@ -1,0 +1,1 @@
+var e=()=>matchMedia(`(prefers-reduced-motion: reduce)`).matches,t=()=>matchMedia(`(display-mode: standalone)`).matches||navigator.standalone===!0,n=()=>/iP(hone|ad|od)/.test(navigator.userAgent)||/Macintosh/.test(navigator.userAgent)&&navigator.maxTouchPoints>1;export{e as n,t as r,n as t};

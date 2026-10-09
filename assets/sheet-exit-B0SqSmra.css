@@ -1,0 +1,1 @@
+.k-ghost{pointer-events:none}.k-ghost.k-sheet{animation:k-sheet-out .16s var(--gm-ease-exit) both}.k-ghost.k-pop{animation:k-pop-out 70ms var(--gm-ease-exit) both}.k-ghost.k-scrim{animation:.12s linear both k-fade-out}@keyframes k-sheet-out{to{transform:translateY(100%)}}@keyframes k-pop-out{to{opacity:0;scale:.96}}@keyframes k-fade-out{to{opacity:0}}
