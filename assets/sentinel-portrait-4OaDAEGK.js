@@ -1,0 +1,1 @@
+import{Qn as e}from"./index-CrNI236q.js";import{t}from"./avatar-U7e6mLbE.js";var n={tier:`trusted`,cleanGames:99};function r(r){return e(t,{name:r.name,direction:`sentinel`,earned:n,edits:{form:r.form},size:r.size})}export{r as SentinelPortrait};
